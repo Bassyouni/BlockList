@@ -1,8 +1,7 @@
-0.0.0.0 (^|\.)hulu\.com$
-0.0.0.0 (^|\.)netflix\.com$
-0.0.0.0 (^|\.)youtube\.com$
-0.0.0.0 (^|\.)disneyplus\.com$
-0.0.0.0 (^|\.)tv\.apple\.com$
-0.0.0.0 (^|\.)play\.hbomax\.com$
-0.0.0.0 (^|\.)primevideo\.com$
-
+(^|\.)hulu\.com$
+(^|\.)netflix\.com$
+(^|\.)youtube\.com$
+(^|\.)disneyplus\.com$
+(^|\.)tv\.apple\.com$
+(^|\.)play\.hbomax\.com$
+(^|\.)primevideo\.com$
