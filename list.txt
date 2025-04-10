@@ -5,3 +5,4 @@
 (^|\.)tv\.apple\.com$
 (^|\.)play\.hbomax\.com$
 (^|\.)primevideo\.com$
+www.youtube.com
