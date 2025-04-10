@@ -1,0 +1,7 @@
+(^|\.)hulu\.com$
+(^|\.)netflix\.com$
+(^|\.)youtube\.com$
+(^|\.)disneyplus\.com$
+(^|\.)tv\.apple\.com$
+(^|\.)play\.hbomax\.com$
+(^|\.)primevideo\.com$
